@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOFT.iml" filepath="$PROJECT_DIR$/.idea/SOFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/SOFT.composeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/SOFT.composeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/SOFT.server.iml" filepath="$PROJECT_DIR$/.idea/modules/server/SOFT.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/SOFT.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/SOFT.shared.iml" />
+    </modules>
+  </component>
+</project>
